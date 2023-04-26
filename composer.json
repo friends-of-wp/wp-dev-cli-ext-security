@@ -1,0 +1,9 @@
+{
+  "name": "friends-of-wp/wp-dev-cli-ext-security",
+  "description": "WP DevCli Extension that shows security information.",
+  "autoload": {
+    "psr-4": {
+      "FriendsOfWp\\VersionSecurityDevCliExtension\\": "src/"
+    }
+  }
+}
